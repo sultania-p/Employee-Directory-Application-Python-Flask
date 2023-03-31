@@ -1,2 +1,1 @@
-# Employee-Directory-Application-Python-Flask
-Employee Directory Application using Flask framework and Bootstrap
+# Employee Directory Application Using Flask Framework
