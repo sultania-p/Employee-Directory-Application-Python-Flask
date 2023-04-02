@@ -43,7 +43,7 @@ Below are the application snippets when ran on localhost (127.0.0.1)
 <p align="center">  
   <br>
 	<a href="#">
-        <img src="img/sign-up
+        <img src="img/sign-up.jpg"
   </a>		
     <br>
 	Figure 1: Sign-Up Page
@@ -52,7 +52,7 @@ Below are the application snippets when ran on localhost (127.0.0.1)
 <p align="center">  
   <br>
 	<a href="#">
-        <img src="img/login.jpg
+        <img src="img/login.jpg"
   </a>		
     <br>
 	Figure 2 : Login Page
@@ -61,7 +61,7 @@ Below are the application snippets when ran on localhost (127.0.0.1)
 <p align="center">  
   <br>
 	<a href="#">
-        <img src="img/home.jpg
+        <img src="img/home.jpg"
   </a>		
     <br>
 	Figure 3 : Home Page
